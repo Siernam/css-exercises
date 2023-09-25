@@ -6,7 +6,6 @@ img {
   width: 100px;
   height: 100px;
   margin: 52px;
-  vertical-align: top;
 }
 
 .title {
@@ -15,7 +14,6 @@ img {
   display: flex;
   justify-content: center;
   margin-bottom: 32px;
-  flex: auto;
 }
 
 .pics {
@@ -24,7 +22,6 @@ img {
   display: flex;
   justify-content: center;
   margin: auto;
-  flex: auto;
 }
 
 /* do not edit this footer */
